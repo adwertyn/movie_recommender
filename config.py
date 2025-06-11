@@ -1,0 +1,4 @@
+# config.py
+
+API_TOKEN = '7810189646:AAHDxOPshxkuB__OqKOq2CFMBv1sQUWy9NE'
+TMDB_API_KEY = 'e3fdfbb5ce95f70b6e5f693e68ac518e'
